@@ -18,7 +18,7 @@
 - [Example](#example)
 - [Environment](#environment)
 - [Reference](#reference)
-- [Lincese](#lincese)
+- [License](#license)
 
 ## Introduction
 
@@ -172,6 +172,6 @@ HESEA provides many CMake/make configuration options, such as installing specifi
 
 [Instructions for building user projects that use HESEA](https://github.com/Privasea/HESEA_Lib/blob/main/doc/Instructions-for-building-user-projects-that-use-HESEA.md)
 
-## Lincese
+## License
 
 HESEA Library uses BSD 2-Clause License. More can find [License Information](LICENSE).
